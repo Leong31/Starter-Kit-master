@@ -2,7 +2,7 @@
 
 Please introduce the game here.
 
-![Alt text](file:///C:/Users/User/Downloads/signature_screenshot.svg_adobe_express.svg "a title")
+![signature_screenshot](https://user-images.githubusercontent.com/107945335/215693179-3c3ebc44-8170-46c3-9ade-95d5144e4fa3.png)
 
 
 Please provide the YouTube link to your [Video Demo](https://youtu.be/Xs_-3fB89Vs).
