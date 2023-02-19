@@ -5,7 +5,7 @@ Please introduce the game here.
 ![Alt text](file:///C:/Users/User/Downloads/signature_screenshot.svg_adobe_express.svg "a title")
 
 
-Please provide the YouTube link to your [Video Demo](https://youtu.be/3Vrh3AdGg20).
+Please provide the YouTube link to your [Video Demo](https://youtu.be/Xs_-3fB89Vs).
 
 ## Compilation Instructions
 
@@ -22,7 +22,7 @@ type in powershell "./a.exe pf\*.cpp main.cpp -DDEMO"
 1) Open the folder that the file located
 2) Highlight the folder and open powershell
 3) Compile the file by type "./a.exe pf\*.cpp main.cpp -DDEMO" in the terminal
-4) You can start play the game by setting your own columm and row
+4) You can start play the game
 
 ## Progress Log
 
